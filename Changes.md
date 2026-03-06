@@ -8,5 +8,7 @@
 - Created `style.css` with a "Apple Cozy" design system and responsive layout.
 - Created `script.js` for scroll animations and smooth navigation.
 - Initialized Git repository and linked to `https://github.com/Happenedspice17/charlieemiliano.github.io`.
-- Deployed files to the `main` branch of the GitHub repository.
+- [x] Deployment to GitHub Pages (`main` and `gh-pages` branches).
+- [/] Troubleshooting deployment update (added package.json for standard workflow).
 - Translated all landing page content (`index.html`) to English as requested.
+- Added `package.json` with a `deploy` script to support `npm run deploy`.

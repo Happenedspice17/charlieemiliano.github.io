@@ -11,7 +11,7 @@
 - [x] Portfolio structure planning completed.
 - [x] Section definition: Hero, Education, Technical Skills, Experience, Projects, Certifications.
 - [x] Deployment to GitHub Pages (`main` and `gh-pages` branches).
-- [/] Troubleshooting 404 error (likely subpath or activation required).
+- [/] Troubleshooting deployment update (added `package.json`).
 
 ## Technical Details (extracted from CV)
 - **Education:** Mechatronics Engineering at Universidad Panamericana (Expected 2027). GPA: 8.7.

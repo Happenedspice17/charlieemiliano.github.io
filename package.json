@@ -1,0 +1,11 @@
+{
+  "name": "charlie-emiliano-landing",
+  "version": "1.0.0",
+  "description": "Apple-style landing page for Carlos Emiliano",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "git add . && git commit -m 'Deploy to GitHub Pages' && git push origin main --force"
+  },
+  "author": "Carlos Emiliano",
+  "license": "ISC"
+}
