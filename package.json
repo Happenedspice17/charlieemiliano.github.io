@@ -4,7 +4,7 @@
   "description": "Apple-style landing page for Carlos Emiliano",
   "main": "index.html",
   "scripts": {
-    "deploy": "git add . && git commit -m 'Deploy to GitHub Pages' && git push origin main --force"
+    "deploy": "git add . && git commit -m \"Deploy to GitHub Pages\" && git push origin HEAD:main --force"
   },
   "author": "Carlos Emiliano",
   "license": "ISC"
