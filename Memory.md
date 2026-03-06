@@ -8,8 +8,10 @@
 
 ## Current State
 - [x] Content extraction from CV completed.
-- [ ] Portfolio structure planning in progress.
-- [ ] Section definition: Hero, Education, Technical Skills, Experience, Projects, Certifications.
+- [x] Portfolio structure planning completed.
+- [x] Section definition: Hero, Education, Technical Skills, Experience, Projects, Certifications.
+- [x] Deployment to GitHub Pages (`main` and `gh-pages` branches).
+- [/] Troubleshooting 404 error (likely subpath or activation required).
 
 ## Technical Details (extracted from CV)
 - **Education:** Mechatronics Engineering at Universidad Panamericana (Expected 2027). GPA: 8.7.
