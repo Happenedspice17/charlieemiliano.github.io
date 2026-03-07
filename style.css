@@ -95,10 +95,8 @@ nav a:hover {
     font-size: clamp(40px, 10vw, 84px);
     line-height: 1.1;
     margin-bottom: 24px;
-    background: linear-gradient(180deg, #fff 0%, #a1a1a6 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #ffffff;
+    text-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
 }
 
 .hero p {
