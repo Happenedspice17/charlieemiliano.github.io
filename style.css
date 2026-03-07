@@ -91,9 +91,10 @@ nav a:hover {
 }
 
 .hero h1 {
-    font-size: clamp(48px, 8vw, 80px);
-    margin-bottom: 20px;
-    background: linear-gradient(180deg, #1d1d1f 0%, #434344 100%);
+    font-size: clamp(40px, 10vw, 84px);
+    line-height: 1.1;
+    margin-bottom: 24px;
+    background: linear-gradient(180deg, #fff 0%, #a1a1a6 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -115,16 +116,22 @@ nav a:hover {
 }
 
 .card {
-    background: white;
+    background: var(--card-bg);
     padding: 40px;
-    border-radius: 24px;
+    border-radius: 20px;
     transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.4s ease;
     border: 1px solid var(--border-color);
 }
 
 .card:hover {
-    transform: scale(1.02);
-    box-shadow: 0 20px 40px rgba(0,0,0,0.04);
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+    border-color: rgba(255, 179, 71, 0.3);
+}
+
+.card h3 {
+    color: var(--accent-color);
+    margin-bottom: 15px;
 }
 
 /* Specific Section Styles */

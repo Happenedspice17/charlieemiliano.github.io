@@ -10,7 +10,7 @@
 - [x] Content extraction from CV completed.
 - [x] Portfolio structure planning completed.
 - [x] Section definition: Hero, Education, Technical Skills, Experience, Projects, Certifications.
-- [x] Deployment to GitHub Pages (`main` and `gh-pages` branches).
+- [x] Final Deployment to [https://happenedspice17.github.io/](https://happenedspice17.github.io/).
 - [x] Troubleshooting deployment update (fixed `package.json` quoting for Windows).
 - [/] Verifying live update (waiting for GitHub Actions).
 
