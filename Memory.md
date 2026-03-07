@@ -11,8 +11,8 @@
 - [x] Portfolio structure planning completed.
 - [x] Section definition: Hero, Education, Technical Skills, Experience, Projects, Certifications.
 - [x] Final Deployment to [https://happenedspice17.github.io/](https://happenedspice17.github.io/).
-- [x] Troubleshooting deployment update (fixed `package.json` quoting for Windows).
-- [/] Verifying live update (waiting for GitHub Actions).
+- [x] Troubleshooting deployment update (fixed `package.json` for "no changes" case).
+- [x] Verifying live update (site is live at happenedspice17.github.io).
 
 ## Technical Details (extracted from CV)
 - **Education:** Mechatronics Engineering at Universidad Panamericana (Expected 2027). GPA: 8.7.
